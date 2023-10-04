@@ -14,7 +14,7 @@ public class Selection315 {
         switch (operator) {
             case '+':
                 result = operand1 + operand2;
-                System.out.println(operand1 + " - " + "=" + result);
+                System.out.println(operand1 + " + " + operand2 + "=" + result);
                 //break;
             case '-':
                 result = operand1 - operand2;
